@@ -1,6 +1,6 @@
 <?php
 
-if(isset($_POST['personality']) && isset($_POST['favourite snack'])){
+if(isset($_POST['submit']){
 
 	echo 'you don reach my end';
 
